@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=Kiosk
-Exec=/home/kiosk/sign
+Exec=/home/kiosk/sign.sh
 X-GNOME-Autostart-enabled=true
