@@ -20,6 +20,9 @@ sudo adduser kiosk
 
 // Copy kiosk.desktop to /home/kiosk/.config/autostart/
 
+// Copy sign.sh to /home/kiosk/ and make sure it's executable
+chmod +x sign.sh
+
 // Edit /etc/lightdm/lightdm.conf to set autologin-user to kiosk
 
 ```
