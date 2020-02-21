@@ -7,6 +7,8 @@ execute the sign.sh script.
 
 The Pi should be configured to use VNC and SSH for remote access.
 
+Edit sign.sh to specify the pages to display.
+
 # Set up
 
 ```
